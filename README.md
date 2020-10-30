@@ -2,12 +2,12 @@
 
 #Data Structures Include:
 
-Array
-Linked List
-Stack
-Queue
-Binary Tree
-Binary Search Tree
-Heap
-Hashing
-Graph
+## Array
+## Linked List
+## Stack
+## Queue
+## Binary Tree
+## Binary Search Tree
+## Heap
+## Hashing
+## Graph
