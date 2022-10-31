@@ -10,4 +10,5 @@
 ## Binary Search Tree
 ## Heap
 ## Hashing
+##Tree
 ## Graph
