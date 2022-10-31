@@ -1,4 +1,4 @@
-#Problems Involving Data Structures
+#Problems Involving Data Structure
 
 #Data Structures Include:
 
